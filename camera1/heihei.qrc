@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Album.png</file>
+        <file>Camera2.png</file>
+        <file>Video.png</file>
+        <file>Close.png</file>
+        <file>load.png</file>
+        <file>back4.png</file>
+        <file>back1.png</file>
+    </qresource>
+</RCC>
